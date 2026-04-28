@@ -54,9 +54,9 @@ To visualize curves on your oscilloscope:
 ---
 
 ## 📂 Repository Structure
-* `/kicad_project`: Full project files, including schematic, layout and fabrication files.
+* `/curve_tracer`: Full project files, including schematic, layout and fabrication files.
 * `/resources`: PDFs I used for learning more on curve tracers.
-* `/bom`: Bill of Materials in Excel format.
+* `/images`: All images used in datasheet and PCB.
 
 ---
 
