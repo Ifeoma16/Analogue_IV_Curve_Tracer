@@ -7,6 +7,8 @@
 
 An fully analogue evaluation module designed to generate characteristic I-V (current-voltage) curves for Devices Under Test (DUT) [resistors, capacitors, inductors, diodes, NPN, NMOS] using standard oscilloscope X-Y plotting. 
 
+See Analogue_IV_Curve_Tracer.pdf file for full project report / datasheet
+
 ## 🚀 Overview
 Unlike digital curve tracers, this design uses zero microcontrollers. It utilizes a synchronized hardware-only topology:
 * **Base/Gate Drive:** A CD4017B decade counter configured for a 5-step staircase waveform.
