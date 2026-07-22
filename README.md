@@ -64,7 +64,7 @@ To visualize curves on your oscilloscope:
 
 ## ⚠️ Design Limitations
 - **Polarity:** This version is optimized for NPN and NMOS devices. PNP/PMOS devices will result in mirrored/inverted plots.
-- **Power Dissipation:** Limited by the sourcing capability of the TL072H op-amps and the 1k$\Omega$ sense resistor.
+- **Power Dissipation:** Limited by the sourcing capability of the TL072H op-amps and the 1kΩ sense resistor.
 
 ---
 
